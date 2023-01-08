@@ -1,5 +1,5 @@
 # MemeMaker Clone Coding
-This is my third front-end project via https://nomadcoders.co. (https://github.com/nomadcoders).\
+This is my third front-end project via https://nomadcoders.co (https://github.com/nomadcoders)\
 I hope to customize more in the near future.
 
 ### Time spent
